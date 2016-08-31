@@ -10,13 +10,13 @@ After opening `Gnome-Terminal` launch tmux using `tmux` command.
 $ tmux
 ```
 
-## Horizontal Split
+## Vertical Split
 
 ```
 Ctrl+b % 
 ```
 
-## Vertical Split
+## Horizontal Split
 
 ```
 Ctrl+b "
